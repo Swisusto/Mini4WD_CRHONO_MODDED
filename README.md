@@ -22,3 +22,6 @@ Mod del progetto <a href="https://github.com/Pimentoso/mini4wdchrono">Mini4wd Cr
 
 
 <b><h3>SEGUICI SUI NOSTRI CANALI SOCIAL <a href="https://www.facebook.com/WolfReverseTeam/?locale=it_IT">CLICCA QUI</a></b></h3>
+
+<h1>SCARICA L'ULTIMA RELEASE </h1>
+<b><h3>V0.01 <a href="https://github.com/Swisusto/Mini4WD_CRHONO_MODDED/releases/tag/V0.01">CLICCA QUI</a></b></h3>
