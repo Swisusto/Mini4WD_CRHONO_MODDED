@@ -1,3 +1,6 @@
+
+![sponsor](https://github.com/Swisusto/Mini4WD_CRHONO_MODDED/assets/62308320/df383ecf-e306-4a25-810b-e4a9ab8e0bda)
+
 <h1>WOLF TEAM VARESE</h1>
 Mod del progetto Mini4wd Crhono con varie e future implementazioni
 
