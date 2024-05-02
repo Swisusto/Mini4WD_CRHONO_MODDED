@@ -14,6 +14,7 @@ Mod del progetto <a href="https://github.com/Pimentoso/mini4wdchrono">Mini4wd Cr
 <h3>NELLE PROSSIME VERSIONI</h3>
 <ul>
   <li>GESTIONE INTERMEDI</li>
+  <li>BEST LAP CON AUTORE</li>
   <li>REGOLAZIONE SUI TEMPI</li>
   <li>GESTIONE CORSIE (AGGIUNTA 5 CORSIA)
 </li>
