@@ -5,13 +5,20 @@
 Mod del progetto <a href="https://github.com/Pimentoso/mini4wdchrono">Mini4wd Crhono</a> con varie e future implementazioni
 
 <h3>QUESTA VERSIONE CONTIENE</h3>
-GESTIONE SPONSOR 
+<ul>
+  <li>GESTIONE SPONSOR</li>
+ 
+</ul>
 
 
 <h3>NELLE PROSSIME VERSIONI</h3>
-GESTIONE INTERMEDI
-REGOLAZIONE SUI TEMPI
-GESTIONE CORSIE (AGGIUNTA 5 CORSIA)
+<ul>
+  <li>GESTIONE INTERMEDI</li>
+  <li>REGOLAZIONE SUI TEMPI</li>
+  <li>GESTIONE CORSIE (AGGIUNTA 5 CORSIA)
+</li>
+</ul>
+
 
 
 <b><h3>SEGUICI SUI NOSTRI CANALI SOCIAL <a href="https://www.facebook.com/WolfReverseTeam/?locale=it_IT">CLICCA QUI</a></b></h3>
